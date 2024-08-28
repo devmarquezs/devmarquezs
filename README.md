@@ -1,8 +1,8 @@
-<h1 align="center">hey there 👋</h1>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo+a+minha+caverna!;e;Confira+meus+Projetos+nessa+caminhada!:>;"/>
 
 ###
 
-<img align="right" height="165" src="https://media.discordapp.net/attachments/1071079345365463092/1277722085631983686/pablogif.gif?ex=66ce32ec&is=66cce16c&hm=2dcfc079073d94cae2066d98721870a9118c43631d108e86adb4c5f123cd45bc&=&width=389&height=389"  />
+<img align="right" height="165" src="/images/pablogif.gif"  />
 
 ###
 
@@ -54,7 +54,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
