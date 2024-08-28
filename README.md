@@ -91,6 +91,6 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/devmarquezs/devmarquezs/output/github-contribution-grid-snake.svg" />
+
 
 ###
