@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="/images/_f51d4959-8125-438b-bc7f-51d3f747a9e9.jpg"  />
+  <img height="500" width="1000" src="/images/_f51d4959-8125-438b-bc7f-51d3f747a9e9.jpg"  />
 </div>
 
 ##
