@@ -50,56 +50,6 @@ const Pablo = struct {
 
 ---
 
-## 🚀 A Iniciativa — projetos ativos
-
-> Laboratório pessoal de engenharia e construção de idéias! da loucura ao código.
-
-<br/>
-
-| Projeto | Status | Descrição |
-|---|---|---|
-| 🟢 **Rage Guardian** | `shipped ✓` | Jogo completo — entregue! |
-| 🟡 **Glitch\_MotorAI** | `testing & improving` | Motor com IA integrada — em refinamento |
-| 🟡 **GlitchChat\_interface** | `testing & improving` | Interface de chat inteligente — em refinamento |
-| 🔴 **DEADforge** | `building...` | Engine modular em Zig — em construção ativa |
-
-<br/>
-
----
-
-## ⚙️ DEADforge — engine modular em Zig
-
-> Uma engine construída do zero, módulo por módulo. Zero dependências externas. Zero atalhos.
-
-<br/>
-
-<div align="center">
-
-![dforge_math](https://img.shields.io/badge/dforge__math-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-![dforge_window](https://img.shields.io/badge/dforge__window-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-![dforge_render](https://img.shields.io/badge/dforge__render-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-![dforge_audio](https://img.shields.io/badge/dforge__audio-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-![dforge_anim](https://img.shields.io/badge/dforge__anim-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-![dforge_input](https://img.shields.io/badge/dforge__input-🔧_building-7c6fcf?style=flat-square&labelColor=0d0d1a)
-
-</div>
-
-<br/>
-
-```
-Estrutura Inicial
-
-math ──── window ──── render
-                        │
-              audio ─── core ─── input 
-                        │
-                       anim 
-```
-
-<br/>
-
----
-
 ## 🛠️ Stack & ferramentas
 
 <div align="center">
@@ -132,20 +82,6 @@ math ──── window ──── render
 │  Programação Avançada      ██████████████████  contínuo     │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devmarquezs&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=7c6fcf&title_color=c0b3ff&text_color=a09dc0&icon_color=7c6fcf&hide_border=false&rank_icon=github" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarquezs&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=7c6fcf&title_color=c0b3ff&text_color=a09dc0&hide_border=false" />
-
-</div>
 
 <br/>
 
